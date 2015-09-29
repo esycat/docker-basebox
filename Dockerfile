@@ -2,6 +2,7 @@ FROM ubuntu:trusty
 
 MAINTAINER "Eugene Janusov" <esycat@gmail.com>
 
+ENV LANG C.UTF-8
 ENV DEBIAN_FRONTEND noninteractive
 
 # OS update, then clean up
