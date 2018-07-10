@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:18.04
 
 MAINTAINER "Eugene Janusov" <esycat@gmail.com>
 
